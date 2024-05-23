@@ -4,23 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e0b2fe4-6cf7-4e56-9513-ac90a4081dda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/corp-website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Contact_Us.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topics.csv" afterDir="false" />
+    <list default="true" id="9e0b2fe4-6cf7-4e56-9513-ac90a4081dda" name="Changes" comment="Final Changes to the Corporate Website">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,6 +143,43 @@
       <option name="presentableId" value="Default" />
       <updated>1716071514157</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final Changes to the Corporate Website">
+      <option name="closed" value="true" />
+      <created>1716443716751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443716752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final Changes to the Corporate Website">
+      <option name="closed" value="true" />
+      <created>1716443722468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443722468</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final Changes to the Corporate Website">
+      <option name="closed" value="true" />
+      <created>1716443731745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443731745</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final Changes to the Corporate Website">
+      <option name="closed" value="true" />
+      <created>1716443757219</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716443757219</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Changes to the Corporate Website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Changes to the Corporate Website" />
   </component>
 </project>
